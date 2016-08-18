@@ -107,10 +107,30 @@ img {
 	font-weight: bold;
 }
 
+#news_title {
+	border: 2px dotted #999966;
+}
+
 #news_section {
 	background-color: #bee783;
-	padding: 5px;
-	border-radius: 30px;
+	border-radius: 15px;
+	padding-right: 5px;
+}
+
+#news_line_first {
+	border-top: 2px dotted #999966;
+	padding-top: 5px;
+}
+
+#news_line {
+    border-bottom: 2px dotted #999966;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+#news_line_last {
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 
 #templatemo_container {
