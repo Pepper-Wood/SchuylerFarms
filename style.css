@@ -40,6 +40,7 @@ img {
 	box-shadow: 9px 7px 35px -1px rgba(0,0,0,0.75);
 	background-color: #333;
 }
+
 .flex-caption {
 	width: 96%;
 	padding: 2%;
@@ -115,6 +116,14 @@ img {
 	background-color: #bee783;
 	border-radius: 15px;
 	padding-right: 5px;
+}
+
+#garden_section {
+	background-color: #bee783;
+	border-radius: 15px;
+	padding: 10px;
+	font-size: 12px;
+	margin-bottom: 10px;
 }
 
 #news_line_first {
@@ -230,6 +239,21 @@ img {
 }
 
 /* end of menu*/
+
+#gardentable {
+	padding: 0px;
+}
+
+#gardentable td {
+	padding:1px;
+	border: 0px;
+}
+
+#gardentable img {
+	height: 200px;
+	width: 300px;
+	display: block;
+}
 
 #templatemo_menu_search #search_section {
 	float: right;
